@@ -1,0 +1,2 @@
+Ce dossier contient les fichiers après nettoyage et transformation des données brutes extraites des fichiers pdf des résultats académiques de l'UTC.
+Pour des raisons de confidentialité, ces données ne sont pas partageables publiquement.

@@ -1,0 +1,6 @@
+# Fichiers pdf bruts
+data-raw/*.7z
+data-raw/*.pdf
+
+# Fichiers jsons nettoyés
+data-clean/*.json
