@@ -47,7 +47,13 @@ Notre objectif va donc être de réaliser nous-mêmes ces statistiques, à parti
 
 ## Résultats
 
-Voici les visuels réalisés à partir des données analysées :
+Certaines tendances intéressantes ou résultats marquants ont été mis en avant, comme par exemple :
+- Le taux de réussite entre 2007 et 2024 semble suivre une tendance légèrement à la hausse, passant d'environ 88% entre 2007 et 2012, à plus de 90% depuis 2016. Est-ce dû à une amélioration de la qualité de l'enseignement, ou à un relâchement des exigences ?
+- Avec 96% de réussite, le Printemps 2020 est le semestre le mieux réussi de l'histoire de l'UTC. Nous remercierons le COVID-19 pour cette performance inédite : notations assouplies, examens par QCM en ligne, etc.
+- Certains cours, réputés parmi les plus difficiles de l'UTC, affichent un taux de réussite moyen inférieur à 70% sur plusieurs années, tombant ponctuellement à 40-50% certains semestres. Il s'agit souvent de cours fondamentaux en mathématiques ou en physique, comme SY02 (Méthodes statistiques pour l'ingénieur) ou MQ01 (Éléments de Résistance des Matériaux).
+- Certaines irrégularités amusantes ont été relevées, comme un taux de réussite supérieur à 100% pour le cours QPO01 à l'automne 2015, manifestement car un élève noté absent a tout de même validé le cours.
+
+Plusieurs visuels ont alors été réalisés avec Canva :
 
 ![](./assets/visuels_compilés.png)
 
