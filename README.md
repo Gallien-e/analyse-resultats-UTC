@@ -4,11 +4,11 @@
 
 # Analyse des résultats académiques de l'UTC
 
-Mini-projet d'analyse des résultats académiques de l'Université de Technologie de Compiègne (UTC).
+Projet d'analyse des résultats académiques de l'Université de Technologie de Compiègne (UTC).
 
-Réalisé en quelques jours, par simple curiosité, puis publié sur le réseau social de l'université. 
+Tout est parti d'une simple curiosité : quels sont les taux de réussite des cours à l'UTC ? Y a-t-il des tendances intéressantes à observer sur plusieurs années ?
 
-Excellente réception auprès des étudiants.
+Réalisé au départ dans un cadre personnel, ce projet a grandement plu aux étudiants de l'université, qui ont beaucoup apprécié l'initiative.
 
 Juillet 2024.
 
