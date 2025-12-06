@@ -69,3 +69,12 @@ Voici le post Facebook réalisé pour l'occasion :
 - Automatiser entièrement les tâches : téléchargement des pdf, extraction, analyse, génération des visuels
 - Publier les résultats sur un site web dynamique
 - Bonus : utiliser les notes attribués aux cours par les élèves pour faire des analyses croisées (corrélation entre la qualité perçue et le taux de réussite, etc)
+
+## Remarque
+
+Ce projet a initialement été réalisé par simple curiosité personnelle. S'il avait été réalisé dans un cadre académique ou professionnel, voici les choses qui auraient été faites différemment :
+- Automatisation complète du téléchargement des fichiers pdf depuis l'intranet de l'UTC, via un script Python utilisant des requêtes HTTP et la gestion des sessions.
+- Utilisation d'outils plus avancés pour la visualisation de données. Fun fact : les couleurs des visuels ont été appliquées à la main sur Canva (notamment les 35 rectangles de la slide "P20", colorés un par un... oui c'était un peu long). Aujourd'hui, j'utiliserais plutôt des outils comme Power BI, Tableau, ou même Figma pour automatiser le processus.
+- Documentation plus complète du code, avec des commentaires détaillés et un README plus exhaustif.
+- Tests unitaires pour le script d'extraction, afin de garantir la robustesse du code face à des variations dans la structure des fichiers pdf.
+- Collaboration avec d'autres étudiants ou professeurs pour valider les analyses et interprétations des données.
