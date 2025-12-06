@@ -2,6 +2,8 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 
+Stack technique : Python, Jupyter Notebook, PyPDF2, Json, Pandas
+
 # Analyse des résultats académiques de l'UTC
 
 Projet d'analyse des résultats académiques de l'Université de Technologie de Compiègne (UTC).
